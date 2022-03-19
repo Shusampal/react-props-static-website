@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width : 80px;
+    height : 70px;
+}
+
+nav {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    box-shadow: -2px 7px 9px -2px rgb(109, 95, 95) ;
+    margin-bottom: 30px;
+}
